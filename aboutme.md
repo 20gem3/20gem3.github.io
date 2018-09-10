@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Good Design
-subtitle:an example found on the Williams Website
+subtitle: an example found on the Williams Website
 ---
 
 
