@@ -4,7 +4,8 @@ title: Good Design
 subtitle: an example found on the Williams Website
 ---
 
-
+![Good Design Example](20gem3.github.io/Screen Shot 2018-09-10 at 7.40.18 PM.png){:class="img-responsive"}
+    
 
 ### why this example?
 
