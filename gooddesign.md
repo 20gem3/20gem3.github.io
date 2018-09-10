@@ -7,7 +7,7 @@ subtitle: an example found on the Williams Website
 ![Good Design Example](sidebar.png)
     
 
-### why this example?
+### Good Design
 
 This is a screenshot of a side-bar from the student life page on the Williams website. I chose this design because the school's website should be intuitive and easy to navigate, and I expect the student life page is an especially high-traffic area of the website. 
 
