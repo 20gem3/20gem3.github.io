@@ -4,7 +4,7 @@ title: Good Design
 subtitle: an example found on the Williams Website
 ---
 
-![Good Design Example](sidebar.png){:class="img-responsive"}
+![Good Design Example](sidebar.png)
     
 
 ### why this example?
