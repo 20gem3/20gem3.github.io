@@ -4,7 +4,7 @@ title: Bad Design
 subtitle: an example found in Sawyer Library
 ---
 
-![Bad Design Example](outlet1.jpeg)
+![Bad Design Example](outlet2.jpeg)
     
    This is an image of an outlet well located on a table in a Sawyer study room.
 
