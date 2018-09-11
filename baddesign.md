@@ -7,4 +7,4 @@ subtitle: an example found in Sawyer Library
 ![Bad Design Example](outlet.jpeg)
     
 
-### Good Design
+### Bad Design
