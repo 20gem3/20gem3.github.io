@@ -5,6 +5,8 @@ subtitle: an example found on the Williams Website
 ---
 
 ![Good Design Example](sidebar.png)
+
+taken from: https://student-life.williams.edu/
     
 
 ### Good Design
