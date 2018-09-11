@@ -24,6 +24,7 @@ description: An online record of my work in CSCI 376
 # List of links in the navigation bar
 navbar-links:
   Good Design: "gooddesign"
+  Bad dEsign: "baddesign"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
