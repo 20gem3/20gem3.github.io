@@ -32,6 +32,7 @@ whispers. If a visitor wishes to record a louder or more impassioned narration, 
 purpose, and the visitor simply manually selects the artwork in the room rather than relying on the LoudSpeaker’s GPS. 
 A user’s narrations are recorded in their Loud account, and they can log on later to tag their narrations as Questions, 
 Opinions, History, Thoughts, or Emotions. 
+
 ![Tags](tags.png)
 
 The website also allows remote access the digitized artwork and narrations. 
