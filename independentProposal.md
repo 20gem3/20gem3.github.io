@@ -7,13 +7,13 @@ subtitle: an collaborative narration technology for the Williams College Art Mus
 ![Visitors](visitors.jpg)
 
 
-As a general rule, museums have at least one thing in common: they are quiet, and usually, that quietness leads to a little
+As a general rule, museums have at least one thing in common: they are quiet spaces. Usually, that quietness leads to a little
 bit of awkwardness. Social interactions are kept, for the most part, to whispered comments, and it often feels as though an 
-unspoken rule is being broken when the silence is disturbed. Some museums, like MASS MoCA have pushed back on this stereotypy
-with programs like the Bang On A Can music festival, where artists play music around the museum in both expected locations, 
-and unexpected locations, like the elevator. Noise can bring life into a space immediately, and casual spoken language can make
-concepts clear for people who might not otherwise access them. This is why attending lecture gives you an academic advantage 
-over simply looking through lecture slides or a textbook.
+unspoken rule is being broken when the silence is disturbed. Some museums, like MASS MoCA, have pushed back on this stereotype
+with programs like the Bang On A Can music festival, where artists play music around the museum in both expected 
+and unexpected locations (in an elevator, for example). 
+
+Noise brings life into a space immediately. And casual spoken language can make concepts clear for people who might not otherwise access them. (This is why attending lecture gives you an academic advantage over simply looking through lecture slides or a textbook.)
 What if this same concept was applied to museums in a much more dynamic manner than a simple guided tour? What if the museum
 visitors themselves narrated the pieces?
 
@@ -27,6 +27,9 @@ visitors themselves narrated the pieces?
   The visitor can then record their own impression of the art: 
   an emotion, a question, a historical fact, an opinion, or any passing thought that the art brings to mind, as well as listen
   to the narration collection contributed by previous museum visitors.
+  
+  ![Words] (wordart.png)
+  
   The quiet sanctuary of the museum is not disturbed because the headsets are extremely sensitive and can pick up on mere 
 whispers. If a visitor wishes to record a louder or more impassioned narration, soundproof rooms are available for this 
 purpose, and the visitor simply manually selects the artwork in the room rather than relying on the LoudSpeaker’s GPS. 
@@ -57,5 +60,6 @@ https://www.flickr.com/photos/plantronicsgermany/12655054665/in/photolist-khhsRF
 https://www.redbubble.com/people/zeeclark/works/19842562-abstract-jackson-pollock-painting-original-art-titled-jump-in
 https://flamingtext.com/net-fu/jobs/25794784886308388.html
 https://www.kimbellart.org/visit/plan-your-visit
+https://wordart.com/create
 
 
