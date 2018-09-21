@@ -28,7 +28,7 @@ visitors themselves narrated the pieces?
   an emotion, a question, a historical fact, an opinion, or any passing thought that the art brings to mind, as well as listen
   to the narration collection contributed by previous museum visitors.
   
-  ![Words] (wordart.png)
+  ![Words](wordart.png)
   
   The quiet sanctuary of the museum is not disturbed because the headsets are extremely sensitive and can pick up on mere 
 whispers. If a visitor wishes to record a louder or more impassioned narration, soundproof rooms are available for this 
