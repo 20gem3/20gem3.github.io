@@ -7,11 +7,7 @@ subtitle: an collaborative narration technology for the Williams College Art Mus
 ![Visitors](visitors.jpg)
 
 
-As a general rule, museums have at least one thing in common: they are quiet spaces. Usually, that quietness leads to a little
-bit of awkwardness. Social interactions are kept, for the most part, to whispered comments, and it often feels as though an 
-unspoken rule is being broken when the silence is disturbed. Some museums, like MASS MoCA, have pushed back on this stereotype
-with programs like the Bang On A Can music festival, where artists play music around the museum in both expected 
-and unexpected locations (in an elevator, for example). 
+With the exception of some exhibits that specifically include music or sounds, most museums tend to be quiet spaces. Often, that quietness leads to a little bit of awkwardness. Social interactions are kept, for the most part, to whispered comments, and it often feels as though an unspoken rule is being broken when the silence is disturbed. Some museums, like MASS MoCA, have pushed back on this stereotype with programs like the Bang On A Can music festival, where artists play music around the museum in both expected and unexpected locations (in an elevator, for example). 
 
 Noise brings life into a space immediately. And casual spoken language can make concepts clear for people who might not otherwise access them. (This is why attending lecture gives you an academic advantage over simply looking through lecture slides or a textbook.)
 What if this same concept was applied to museums in a much more dynamic manner than a simple guided tour? What if the museum
