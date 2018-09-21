@@ -4,8 +4,7 @@ title: LoudSource
 subtitle: an collaborative narration technology for the Williams College Art Museum
 ---
 
-
-    ![Visitors](visitors.jpg)
+![Visitors](visitors.jpg)
 
 
 As a general rule, museums have at least one thing in common: they are quiet, and usually, that quietness leads to a little
@@ -42,7 +41,7 @@ Art becomes more accessible to the visitors, and in turn the visitors *reinvigor
 
 ![Reinvigorate](reinvigorate.png)
 
-All narrations are held for 24 hours for review before being added to the LoudSource narration community and screened 
+All narrations are held for 24 hours for review before being added to the LoudSource narration community and are screened 
 for swears and offensive language, but LoudSource does respect freedom of speech and does not endorse nor censor 
 certain points of view or opinions. LoudSource offers G, PG, PG-13, and R rated settings.
 
