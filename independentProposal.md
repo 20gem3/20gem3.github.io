@@ -46,4 +46,16 @@ All narrations are held for 24 hours for review before being added to the LoudSo
 for swears and offensive language, but LoudSource does respect freedom of speech and does not endorse nor censor 
 certain points of view or opinions. LoudSource offers G, PG, PG-13, and R rated settings.
 
+Images taken from the following sources:
+
+https://www.iconfinder.com/icons/118617/mark_question_icon
+https://www.iconfinder.com/icons/1654367/favorite_mark_opinion_rating_star_icon
+https://www.iconfinder.com/icons/2124148/app_emotion_essential_ui_icon
+https://www.iconfinder.com/icons/370072/alarm_alert_clock_event_history_schedule_time_icon
+https://www.iconfinder.com/icons/925926/bubble_chat_conversation_friends_talk_icon
+https://www.flickr.com/photos/plantronicsgermany/12655054665/in/photolist-khhsRF-2Qzn4a-aEcTgE-HgctS2-2oSgYj-65iUW4-eCjW9-4Jcc2s-2kz3A2-SR9Ld3-aDrDjF-27yVVQM-e5hbVm-CKov1M-UWqKvw-DEUFxz-qNtanJ-5btGYz-qULmFx-aTaQye-3oH6gU-8jNdVG-2yUWxv-JASaNH-2n3JW5-Fzf5LZ-k968uH-dNT9k6-iFeg5g-vUxVAA-JQNhjt-FCZvDi-ADwShJ-DZTPMd-iFbnUN-CE19p-8K8LHF-iLkPXa-HVM2wU-7KPyb4-q9awKy-Gb3U2n-27n94zL-AqQTGx-qb5Rts-dCBjrY-GaQpMK-3y8wMT-47xXBM-8AC7Tt
+https://www.redbubble.com/people/zeeclark/works/19842562-abstract-jackson-pollock-painting-original-art-titled-jump-in
+https://flamingtext.com/net-fu/jobs/25794784886308388.html
+https://www.kimbellart.org/visit/plan-your-visit
+
 
