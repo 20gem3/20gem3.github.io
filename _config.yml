@@ -25,6 +25,7 @@ description: An online record of my work in CSCI 376
 navbar-links:
   Good Design: "gooddesign"
   Bad Design: "baddesign"
+  Independent Project Proposal: "independentProposal"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
