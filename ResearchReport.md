@@ -12,5 +12,5 @@ Our design does not address synchronous use of smart watches and phones, so I do
 
 
 Chen, X., Grossman, T., Wigdor, D.,  & Fitzmaurice, G. (2014). Duet: Exploring joint 
-interactions on a smart phone and a smart watch. CHI ‘14 Proceedings of the SIGCHI 
-Conference, 159-168. https://doi.org/10.1145/2556288.2556955
+  interactions on a smart phone and a smart watch. CHI ‘14 Proceedings of the SIGCHI 
+  Conference, 159-168. https://doi.org/10.1145/2556288.2556955
