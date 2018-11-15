@@ -14,7 +14,5 @@ After reading this paper, I do wish we had considered incorporating multiple pie
 
 Our design does not address synchronous use of smart watches and phones, so I do not think it directly improves upon the topic of this paper. However, I do think it would be interesting for the authors to consider how wireless headphones or speech commands could play a role in their design. This would be a step away from the “duet” of the watch and phone, and toward the wireless “symphony,” as the authors mention in their discussion.
 
-
-Chen, X., Grossman, T., Wigdor, D.,  & Fitzmaurice, G. (2014). Duet: Exploring joint 
-  interactions on a smart phone and a smart watch. CHI ‘14 Proceedings of the SIGCHI 
-  Conference, 159-168. https://doi.org/10.1145/2556288.2556955
+### Citation
+Chen, X., Grossman, T., Wigdor, D.,  & Fitzmaurice, G. (2014). Duet: Exploring joint interactions on a smart phone and a smart watch. CHI ‘14 Proceedings of the SIGCHI Conference, 159-168. https://doi.org/10.1145/2556288.2556955
