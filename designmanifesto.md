@@ -44,13 +44,13 @@ In this class, we had many opportunities to collect data to inform our design: a
 	
 Throughout much of our User Experience Research phase, my group imagine InterprArt as a mobile phone app. We put a lot of time and effort into imagining how users would interact with the app, what it would accomplish in the museum setting, how we could make the app more fun for users, and how to improve our design overall. 
 
-![phone task](phone_task2.png)
+![phone task](/img/phone_task2.png)
 
 *An illustration of a task using a mobile phone, created as part of our [Design 3x4](http://mc-mejia.github.io/HCIGroupProject/Design3x4/)*
 
 In our initial thoughts, it did not occur naturally to us that maybe a mobile phone app is not the best implementation for a museum setting. A phone puts a screen in between the user and the art, could be distracting, and is more cumbersome to carry around than wearing a smartwatch. Had it not been for the guidance of Iris, we very well may have carried on with a design for a mobile app. We would have refined and improved this design iteratively throughout the class, but the innate nature of a smartphone mobile app would have limited the effectiveness of our product. We may have reached the very best version of a museum discussion board mobile phone app, and still had a poor design. After sketching some preliminary ideas, and considering Iris’s feedback, and as well as developing [tasks](http://mc-mejia.github.io/HCIGroupProject/Design3x4/) and [storyboards](http://mc-mejia.github.io/HCIGroupProject/Design1x2/) we were able to see these advantages and disadvantages.
 
-![sketches](GM_sketches.jpg)
+![sketches](/img/GM_sketches.jpg)
 
 *Some preliminary sketches of various designs*
 
