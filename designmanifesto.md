@@ -36,11 +36,11 @@ To be completely honest, we did not make this design decision due to accessibili
 
 With the larger screen of the phone, we could more easily add a more traditional written discussion board in compliment to our auditory design and increase accessibility beyond vision impaired users to deaf users and users with low mobility, for whom interacting with the smartwatch poses a challenge. Ultimately, my group did not make these changes because were at such a late stage in the design process. Adding a smartphone feature would mean completely overhauling certain aspects of our design, and we did not have user data to back up this choice. From these experiences, I learned two main things regarding accessibility. First, that it’s extremely important to keep up to date on the literature and what other designers are doing. Inspiration can come from anywhere, and if I had simply relied on my own thinking process, without consulting research and past designs, these ideas may never have occurred to me. And second, that accessibility concerns need to be integrated into the design process from the very beginning. If we had set out to create an accessible design from the outset, rather than contemplating how to make a design more accessible after the fact, we would have been much more successful.
 
-### Data, Data, Data (Build from the ground up.)
+### 3. Data, Data, Data (Build from the ground up.)
 
 In this class, we had many opportunities to collect data to inform our design: a fly-on-the-wall observation, a contextual inquiry, and multiple rounds of usability testing. In the initial stages of research, I found myself falling into the trap of looking for data points that affirmed what I already expected, rather than taking in the information objectively. For example, in my fly on the wall observation, I looked for signs that the museum goers might feel uncomfortable in the stuffy environment, because I have experienced that myself. This is clearly a breach of the key to user-centered design: **THE USER IS NOT LIKE US**. Going back, I would have jotted down notes in a more objective way, and considered multiple interpretations after the fact. Starting from unbiased data and building up helps ensure that the design is evidence based, rather than coming from a predetermined idea of the designer.
 
-### Design and REdesign  (The best version of a bad design is still bad.)
+### 4. Design and REdesign  (The best version of a bad design is still bad.)
 	
 Throughout much of our User Experience Research phase, my group imagine InterprArt as a mobile phone app. We put a lot of time and effort into imagining how users would interact with the app, what it would accomplish in the museum setting, how we could make the app more fun for users, and how to improve our design overall. 
 
@@ -54,7 +54,12 @@ In our initial thoughts, it did not occur naturally to us that maybe a mobile ph
 
 *Some preliminary sketches of various designs*
 
-### Multiple Perspectives (The user is not like... the user?)
+### 5. Multiple Perspectives (The user is not like... the user?)
+
+I conducted a contextual inquiry with a sophomore club athlete who had never been in WCMA before. Therefore, much of the data that I collected from him was colored by his general lack of experience with WCMA, his high energy and dislike of quiet spaces, and his uncertainty of how to proceed. After this experience, I thought I had an idea of how the “typical” Williams student would feel in WCMA, and what purpose my design should serve. One of my group members, on the other  hand, interviewed a junior WCMA student employee, who loved art and spent countless hours in the museum. When we combined data, I realized I had to adjust my mental model. Through the process of creating an affinity diagram, we were able to zoom in on the common needs and problems faced by each of our participants. This experience drove home for me the importance of multiple data points. There is not one, real representative user, which is why companies like Microsoft create user personas, as a way to encompass common traits of many users. While our group did not create a similar persona, we did refer back to each of our participants throughout the design process, saying things like, “I bet X would like that, but I don’t think Y really needs that feature…” or “That could be good for Z, but Y doesn’t use the museum that way….”  Thinking of multiple types of users helped us in our goal to make our design usable for as many people as possible.
+
+![affinity diagram](/img/affinity_design.jpg)
+*Our final affinity diagram*
 
 
 
