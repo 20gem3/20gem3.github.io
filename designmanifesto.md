@@ -1,4 +1,4 @@
-# How I Learned to Design Ethically, Accessibly, and Effectively
+# Some Mistakes I Made, and How I Learned to Design Ethically, Accessibly, and Effectively
 
 At this point in my very short user-centered design career, I still would definitely not call myself an HCI expert. 
 However, in the process of designing InterprArt, alongside Abby Miller and Maria Mejia, I have learned a lot about how to 
@@ -35,3 +35,26 @@ To be completely honest, we did not make this design decision due to accessibili
 *An image taken from Chen et al.'s paper illustrating the smartwatch and phone integration*
 
 With the larger screen of the phone, we could more easily add a more traditional written discussion board in compliment to our auditory design and increase accessibility beyond vision impaired users to deaf users and users with low mobility, for whom interacting with the smartwatch poses a challenge. Ultimately, my group did not make these changes because were at such a late stage in the design process. Adding a smartphone feature would mean completely overhauling certain aspects of our design, and we did not have user data to back up this choice. From these experiences, I learned two main things regarding accessibility. First, that it’s extremely important to keep up to date on the literature and what other designers are doing. Inspiration can come from anywhere, and if I had simply relied on my own thinking process, without consulting research and past designs, these ideas may never have occurred to me. And second, that accessibility concerns need to be integrated into the design process from the very beginning. If we had set out to create an accessible design from the outset, rather than contemplating how to make a design more accessible after the fact, we would have been much more successful.
+
+### Data, Data, Data (Build from the ground up.)
+
+In this class, we had many opportunities to collect data to inform our design: a fly-on-the-wall observation, a contextual inquiry, and multiple rounds of usability testing. In the initial stages of research, I found myself falling into the trap of looking for data points that affirmed what I already expected, rather than taking in the information objectively. For example, in my fly on the wall observation, I looked for signs that the museum goers might feel uncomfortable in the stuffy environment, because I have experienced that myself. This is clearly a breach of the key to user-centered design: **THE USER IS NOT LIKE US**. Going back, I would have jotted down notes in a more objective way, and considered multiple interpretations after the fact. Starting from unbiased data and building up helps ensure that the design is evidence based, rather than coming from a predetermined idea of the designer.
+
+### Design and REdesign  (The best version of a bad design is still bad.)
+	
+Throughout much of our User Experience Research phase, my group imagine InterprArt as a mobile phone app. We put a lot of time and effort into imagining how users would interact with the app, what it would accomplish in the museum setting, how we could make the app more fun for users, and how to improve our design overall. 
+
+![phone task](phone_task2.png)
+
+*An illustration of a task using a mobile phone, created as part of our [Design 3x4](http://mc-mejia.github.io/HCIGroupProject/Design3x4/)*
+
+In our initial thoughts, it did not occur naturally to us that maybe a mobile phone app is not the best implementation for a museum setting. A phone puts a screen in between the user and the art, could be distracting, and is more cumbersome to carry around than wearing a smartwatch. Had it not been for the guidance of Iris, we very well may have carried on with a design for a mobile app. We would have refined and improved this design iteratively throughout the class, but the innate nature of a smartphone mobile app would have limited the effectiveness of our product. We may have reached the very best version of a museum discussion board mobile phone app, and still had a poor design. After sketching some preliminary ideas, and considering Iris’s feedback, and as well as developing [tasks](http://mc-mejia.github.io/HCIGroupProject/Design3x4/) and [storyboards](http://mc-mejia.github.io/HCIGroupProject/Design1x2/) we were able to see these advantages and disadvantages.
+
+![sketches](GM_sketches.jpg)
+
+*Some preliminary sketches of various designs*
+
+### Multiple Perspectives (The user is not like... the user?)
+
+
+
