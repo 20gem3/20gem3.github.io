@@ -20,6 +20,10 @@ Even when designing a product as seemingly innocuous as InterprArt, a digital, a
 
 InterprArt’s audio-based design is inherently inclusive of vision impaired users. This idea was inspired by Lester Lee, Karl Bocker, and Alyssa Wang’s design for their app, [Pin](http://www.lester-lee.com/curious-places/). 
 
-insert image of Lester’s website 
+![pin earbud use](/img/karl_1.png)
+*An image taken from the Pin website*
+
+![interprart earbud use](/img/watch_task2.png) 
+*An illustration of an InterprArt task using earbuds*
 
 To be completely honest, we did not make this design decision due to accessibility concerns, but rather due to the logistics of a museum environment. It was only after learning more about accessibility that we made the connection that an auditory experience makes a museum visit more inclusive of vision impaired users. With accessibility on the forefront of our mind, we started wondering how we could intentionally increase the inclusivity of our design. After reading a 2014 paper by Chen, Grossman, Wigdor, and Fitzmaurice, I was intrigued by the possibility of phone and smartwatch integration. image from research paper? With the larger screen of the phone, we could more easily add a more traditional written discussion board in compliment to our auditory design and increase accessibility beyond vision impaired users to deaf users and users with low mobility, for whom interacting with the smartwatch poses a challenge. Ultimately, my group did not make these changes because were at such a late stage in the design process. Adding a smartphone feature would mean completely overhauling certain aspects of our design, and we did not have user data to back up this choice. From these experiences, I learned two main things regarding accessibility. First, that it’s extremely important to keep up to date on the literature and what other designers are doing. Inspiration can come from anywhere, and if I had simply relied on my own thinking process, without consulting research and past designs, these ideas may never have occurred to me. And second, that accessibility concerns need to be integrated into the design process from the very beginning. If we had set out to create an accessible design from the outset, rather than contemplating how to make a design more accessible after the fact, we would have been much more successful.
