@@ -29,7 +29,7 @@ To be perfectly candid, we did not make this design decision due to accessibilit
 
 ![smartwatch and phone integration](/img/integration.png)
 
-*An image taken from Chen et al.'s paper</sup>1</sup> illustrating the smartwatch and phone integration*
+*An image taken from Chen et al.'s paper(1) illustrating the smartwatch and phone integration*
 
 With the larger screen of the phone, we could more easily add a more traditional written discussion board in compliment to our auditory design and increase accessibility beyond vision impaired users to deaf users and users with low mobility, for whom interacting with the small buttons on a smartwatch poses a challenge. Ultimately, my group did not make these changes because were at a relatively late stage in the design process. Adding a smartphone feature would mean completely overhauling certain aspects of our design, and we did not have user data to back up this choice. From these experiences, I learned two main things regarding accessibility. First, that it’s extremely important to keep up to date on the literature and what other designers are doing. Inspiration can come from anywhere, and if I had simply relied on my own thinking process, without consulting research and past designs, these ideas may never have occurred to me. And second, that accessibility concerns need to be integrated into the design process from the very beginning. If we had set out to create an accessible design from the outset, rather than contemplating how to make a design more accessible after the fact, we would have been much more successful.
 
@@ -53,7 +53,7 @@ In our initial thoughts, it did not occur naturally to us that maybe a mobile ph
 
 ### 5. Multiple Perspectives (The user is not like... the user?)
 
-I conducted a contextual inquiry with a sophomore club athlete who had never been in WCMA before. Therefore, much of the data that I collected from him was colored by his general lack of experience with WCMA, his high energy, his dislike of quiet spaces, and his uncertainty of how to proceed. After this experience, I thought I had an idea of how the “typical” Williams student would feel in WCMA, and what purpose my design should serve. One of my group members, on the other  hand, interviewed a junior WCMA student employee, who loved art and spent countless hours in the museum. When we combined data, I realized I had to adjust my mental model. Through the process of creating an affinity diagram, we were able to zoom in on the common needs and problems faced by each of our participants. This experience drove home for me the importance of multiple data points. There is not one, real representative user, which is why companies like Microsoft create user personas and mood boards, as a way to encompass common traits of many users. 
+I conducted a contextual inquiry with a sophomore club athlete who had never been in WCMA before. Therefore, much of the data that I collected from him was colored by his general lack of experience with WCMA, his high energy, his dislike of quiet spaces, and his uncertainty of how to proceed. After this experience, I thought I had an idea of how the “typical” Williams student would feel in WCMA, and what purpose my design should serve. One of my group members, on the other  hand, interviewed a junior WCMA student employee, who loved art and spent countless hours in the museum. When we combined data, I realized I had to adjust my mental model. Through the process of creating an affinity diagram, we were able to zoom in on the common needs and problems faced by each of our participants. This experience drove home for me the importance of multiple data points. There is not one, real representative user, which is why companies like Microsoft create user personas and mood boards(2), as a way to encompass common traits of many users. 
 
 [a persona mood board](moodboard.png)
 
@@ -65,4 +65,8 @@ While our group did not create a similar persona, we did refer back to each of o
 *Our final affinity diagram*
 
 
+(1)Chen, X., Grossman, T., Wigdor, D.,  & Fitzmaurice, G. (2014). Duet: Exploring joint 
+interactions on a smart phone and a smart watch. CHI ‘14 Proceedings of the SIGCHI 
+Conference, 159-168. https://doi.org/10.1145/2556288.2556955
 
+(2)John Pruitt and Jonathan Grudin. 2003. “Personas: practice and theory.” In Proceedings of the 2003 conference on Designing for user experiences. ACM, New York, NY, USA, 1-15.
