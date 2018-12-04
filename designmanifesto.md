@@ -1,4 +1,4 @@
-# Some Mistakes I Made, and How I Learned to Design Ethically, Accessibly, and Effectively
+## Some Mistakes I Made, and How I Learned to Design Ethically, Accessibly, and Effectively
 
 At this point in my very short user-centered design career, I still would definitely not call myself an HCI expert. 
 However, in the process of designing InterprArt, alongside Abby Miller and Maria Mejia, I have learned a lot about how to 
