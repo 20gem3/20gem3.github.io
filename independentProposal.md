@@ -1,16 +1,18 @@
 ---
 layout: page
 title: LoudSource
-subtitle: an collaborative narration technology for the Williams College Art Museum
+subtitle: a collaborative narration technology for the Williams College Art Museum
 ---
 
 ![Visitors](visitors.jpg)
 (1)
 
+## Problem
 
-With the exception of some exhibits that specifically include music or sounds, most museums tend to be quiet spaces. Often, that quietness leads to a little bit of awkwardness. Social interactions are kept, for the most part, to whispered comments, and it often feels as though an unspoken rule is being broken when the silence is disturbed. Some museums, like MASS MoCA, have pushed back on this stereotype with programs like the Bang On A Can music festival, where artists play music around the museum in both expected and unexpected locations (in an elevator, for example). 
+With the exception of some exhibits that specifically include music or sounds, most museums tend to be quiet spaces. Often, that quietness leads to a little bit of awkwardness. Social interactions are kept, for the most part, to whispered comments, and it often feels as though an unspoken rule is being broken when the silence is disturbed. This dynamic is problematic because museums are meant to be accessible spaces devoted to sharing culture with the community. If community members do not feel comfortable in the space, they can not fully benefit from the service the museum is attempting to provide.
 
-Noise brings life into a space immediately. And casual spoken language can make concepts clear for people who might not otherwise access them. (This is why attending lecture gives you an academic advantage over simply looking through lecture slides or a textbook.)
+## Solution
+Some museums, like MASS MoCA, have pushed back on the stuffy museum stereotype with programs like the Bang On A Can music festival, where artists play music around the museum in both expected and unexpected locations (in an elevator, for example). Noise brings life into a space immediately. And casual spoken language can make concepts clear for people who might not otherwise access them. (This is why attending lecture gives you an academic advantage over simply looking through lecture slides or a textbook.)
 What if this same concept was applied to museums in a much more dynamic manner than a simple guided tour? What if the museum
 visitors themselves narrated the pieces?
 
