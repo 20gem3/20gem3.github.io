@@ -55,7 +55,7 @@ In our initial thoughts, it did not occur naturally to us that maybe a mobile ph
 
 I conducted a contextual inquiry with a sophomore club athlete who had never been in WCMA before. Therefore, much of the data that I collected from him was colored by his general lack of experience with WCMA, his high energy, his dislike of quiet spaces, and his uncertainty of how to proceed. After this experience, I thought I had an idea of how the “typical” Williams student would feel in WCMA, and what purpose my design should serve. One of my group members, on the other  hand, interviewed a junior WCMA student employee, who loved art and spent countless hours in the museum. When we combined data, I realized I had to adjust my mental model. Through the process of creating an affinity diagram, we were able to zoom in on the common needs and problems faced by each of our participants. This experience drove home for me the importance of multiple data points. There is not one, real representative user, which is why companies like Microsoft create user personas and mood boards(2), as a way to encompass common traits of many users. 
 
-[a persona mood board](moodboard.png)
+![a persona mood board](moodboard.png)
 
 *An image of a mood board, taken from Pruitt and Grodin's 2003 paper on user personas*
 
